@@ -57,4 +57,12 @@ function login(username:string,password:string){
 
 }
 
+const arrow =(Lakshan:string)=>{
+    console.log("My Name is ",Lakshan)
+}
+
+
+
+
+arrow("Lakshan")
 login("Suni","ijkl")
